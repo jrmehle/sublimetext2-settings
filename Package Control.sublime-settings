@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": 1328285687,
+	"installed_packages":
+	[
+		"Alignment",
+		"alternative_autocompletion",
+		"CoffeeScript",
+		"Haml",
+		"IndentGuides",
+		"Package Control",
+		"Rails Related Files",
+		"RSpec (snippets and syntax)",
+		"SCSS",
+		"Simple Rails Navigator"
+	]
+}
