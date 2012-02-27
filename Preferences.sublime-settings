@@ -33,10 +33,11 @@
 		"log",
 		"tmp",
 		".sass-cache",
-		"coverage"
+		"coverage",
+		"bin"
 	],
 	"font_face": "Anonymous Pro Bold",
-	"font_size": 16,
+	"font_size": 16.0,
 	"ignored_packages":
 	[
 		"Vintage",
@@ -46,10 +47,12 @@
 	{
 		"show_minimap": false
 	},
-	"tab_completion": true,
-	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+	"save_on_focus_lost"                : true,
+	"tab_completion"                    : true,
+	"tab_size"                          : 2,
+	"theme"                             : "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces"          : true,
+	"trim_automatic_white_space"        : true,
+	"trim_trailing_white_space_on_save" : true,
+	"draw_white_space"                  : "selection"
 }

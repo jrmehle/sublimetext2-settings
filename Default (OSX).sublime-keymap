@@ -1,2 +1,4 @@
 [
+  { "keys": ["ctrl+l"], "command": "insert_snippet", "args": {"contents": " => "}},
+  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" }
 ]

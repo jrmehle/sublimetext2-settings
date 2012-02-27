@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1328285687,
+	"auto_upgrade_last_run": 1330272099,
 	"installed_packages":
 	[
 		"Alignment",
 		"alternative_autocompletion",
+		"Backbone.js",
 		"CoffeeScript",
 		"Haml",
 		"IndentGuides",
@@ -11,6 +12,7 @@
 		"Rails Related Files",
 		"RSpec (snippets and syntax)",
 		"SCSS",
-		"Simple Rails Navigator"
+		"Simple Rails Navigator",
+		"SublimeCodeIntel"
 	]
 }
