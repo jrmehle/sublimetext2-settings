@@ -1,4 +1,6 @@
 [
   { "keys": ["ctrl+l"], "command": "insert_snippet", "args": {"contents": " => "}},
-  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" }
+  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+  { "keys": ["ctrl+shift+."], "command": "insert_snippet", "args": {"contents": "<%= $1 %>"}},
+  { "keys": ["ctrl+shift+,"], "command": "insert_snippet", "args": {"contents": "<div>$1</div>"}}
 ]

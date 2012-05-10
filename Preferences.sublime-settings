@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/User/idleFingers.tmTheme",
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -37,22 +39,28 @@
 		"bin"
 	],
 	"font_face": "Anonymous Pro Bold",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"font_size": 16.0,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage",
 		"IndentGuides"
 	],
+	"margin": 0,
 	"new_window_settings":
 	{
 		"show_minimap": false
 	},
-	"save_on_focus_lost"                : true,
-	"tab_completion"                    : true,
-	"tab_size"                          : 2,
-	"theme"                             : "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces"          : true,
-	"trim_automatic_white_space"        : true,
-	"trim_trailing_white_space_on_save" : true,
-	"draw_white_space"                  : "selection"
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }

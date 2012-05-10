@@ -1,11 +1,14 @@
 {
-	"auto_upgrade_last_run": 1330272099,
+	"auto_upgrade_last_run": 1336661283,
 	"installed_packages":
 	[
 		"Alignment",
 		"alternative_autocompletion",
 		"Backbone.js",
 		"CoffeeScript",
+		"CSV",
+		"Cucumber",
+		"Guard",
 		"Haml",
 		"IndentGuides",
 		"Package Control",
